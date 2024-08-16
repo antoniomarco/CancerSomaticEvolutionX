@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  TSG_A_prostate$MS_NT and TSG_X_prostate$MS_NT
+W = 471, p-value = 0.5272
+alternative hypothesis: true location shift is not equal to 0
+

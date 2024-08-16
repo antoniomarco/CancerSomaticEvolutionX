@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  TSG_A_genes_rates$MS_NT and TSG_X_genes_rates$MS_NT
+W = 607, p-value = 0.346
+alternative hypothesis: true location shift is not equal to 0
+

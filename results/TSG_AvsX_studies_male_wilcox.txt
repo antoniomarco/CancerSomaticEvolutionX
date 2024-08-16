@@ -1,0 +1,7 @@
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  Paired_studies_male[Paired_studies_male$TYPE == "TSG", ]$MS_NT.x and Paired_studies_male[Paired_studies_male$TYPE == "TSG", ]$MS_NT.y
+V = 8112, p-value = 0.005524
+alternative hypothesis: true location shift is not equal to 0
+

@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  TSG_A_breast$MS_NT and TSG_X_breast$MS_NT
+W = 504, p-value = 0.1204
+alternative hypothesis: true location shift is not equal to 0
+
